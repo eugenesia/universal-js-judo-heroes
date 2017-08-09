@@ -1,0 +1,11 @@
+{
+  "name": "judo-heroes",
+  "version": "1.0.0",
+  "description": "Universal Javascript web app with React, React Router and Express. Showing some heroes of Judo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eugene Sia",
+  "license": "ISC"
+}
